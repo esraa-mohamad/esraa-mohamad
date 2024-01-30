@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esraa Mohammed AbdelHafez 💕</h1>
-<h3 align="center">A passionate Frontend and Mobile App (Flutter) developer 💕</h3>
-<img  align="center" width="450" height="450" src="https://user-images.githubusercontent.com/25807788/89138849-e7965600-d50a-11ea-9e8e-ee7311f81ff8.gif" alt="coding" /> 
+<h3 align="center">Flutter Deve;loper Engineering 💕</h3>
+<img  align="center" width="300" height="300" src="https://user-images.githubusercontent.com/25807788/89138849-e7965600-d50a-11ea-9e8e-ee7311f81ff8.gif" alt="coding" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esraa-mohamad&label=Profile%20views&color=0e75b6&style=flat" alt="esraa-mohamad" /> </p>
 
 <h3 align="left">Connect with me:</h3>
